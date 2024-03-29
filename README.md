@@ -3,7 +3,7 @@ This repository contains a Python script implementing a simplified version of th
 
 ## How to Play
 
-  **Setup:** Run the Python script kata_goose.py.
+  **Setup:** Run the Python script **kata_goose_game.py**.
 
   **Adding Players:** Enter player names when prompted. It requires minimum two players. To start the game, type 'start' after entering at least two player names.
 
@@ -26,13 +26,13 @@ This repository contains a Python script implementing a simplified version of th
 
 ## Repository Contents
 
-  **kata_goose.py:** The main Python script containing the game implementation.
+  **kata_goose_game.py:** The main Python script containing the game implementation.
 
   **README.md (this file):** Provides instructions on how to play the game and an overview of its implementation.
 
 ## Running the Game
 
-To play the Goose Game, ensure you have Python v3.x installed on your system. This script was tested with Python 3.10.12 on Google colab. Run the script kata_goose.py in your preferred Python environment.
+To play the Goose Game, ensure you have **Python v3.x** installed on your system. This script was tested with **Python v3.10.12 on Google colab**. Run the script **kata_goose_game.py** in your preferred Python environment.
 
 ## Contributors
 
