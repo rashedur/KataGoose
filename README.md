@@ -32,7 +32,7 @@ This repository contains a Python script implementing a simplified version of th
 
 ## Running the Game
 
-To play the Goose Game, ensure you have Python v3.10 installed on your system (I used Python 3.10.12). Run the script kata_goose.py in your preferred Python environment.
+To play the Goose Game, ensure you have Python v3.x installed on your system. This script was tested with Python 3.10.12 on Google colab. Run the script kata_goose.py in your preferred Python environment.
 
 ## Contributors
 
